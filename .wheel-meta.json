@@ -1,0 +1,22 @@
+{
+  "wheel_id": 429,
+  "structure": "umbrella",
+  "slug": "retainingwallnewcastle-102",
+  "project": "retaining-wall-newcastle-beginner-guide-55e15b45932dc9dc6ab0f8b",
+  "parent_t1_ref": "retainingwallnewcastle-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallnewcastle.com.au",
+  "primary_kw": "retaining wall newcastle beginner guide",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-newcastle-beginner-guide-55e15b45932dc9dc6ab0f8b/",
+  "tier": "T2",
+  "writeback_nonce": "7206b6e0bfa99915",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-newcastle-6bde96ce6a6c382952ea5f504a07d741d90d48.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
